@@ -1,0 +1,52 @@
+{
+  "databases": [
+    {
+      "id": "1",
+      "name": "Database 1",
+      "url": "https://db1.example.com",
+      "username": "user1",
+      "password": "password1",
+      "type": "Snowflake"
+    },
+    {
+      "id": "2",
+      "name": "Database 2",
+      "url": "https://db2.example.com",
+      "username": "user2",
+      "password": "password2",
+      "type": "Trino"
+    },
+    {
+      "id": "3",
+      "name": "Database 3",
+      "url": "https://db3.example.com",
+      "username": "user3",
+      "password": "password3",
+      "type": "MySQL"
+    },
+    {
+      "id": "630c",
+      "name": "naor",
+      "url": "naor",
+      "username": "naor147m@gmail.com",
+      "password": "1234",
+      "type": "MySQL"
+    },
+    {
+      "id": "c21f",
+      "name": "eldar",
+      "url": "eldar",
+      "username": "eldarm994@gmail.com",
+      "password": "12345",
+      "type": "Trino"
+    },
+    {
+      "id": "5200",
+      "name": "lital",
+      "url": "lital",
+      "username": "lital@gmail.com",
+      "password": "123",
+      "type": "MySQL"
+    }
+  ]
+}
